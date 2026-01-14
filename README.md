@@ -1,2 +1,3 @@
-# rosario-agente-vua
-Mentoría pedagógica para el curso VUA. Especialista en la integración ética de IA Google, orientada a potenciar el pensamiento crítico, la justicia social y la autonomía del estudiantado en la era de la inteligencia aumentada.
+# Configuración de Agente: Rosario (RC-03)
+Este repositorio contiene el archivo JSON de configuración para el agente pedagógico del curso "Vida Universitaria Aumentada" de la Universidad Nacional Rosario Castellanos. Configurado por J. Víctor Faccio Lucero.
+Para usarlo, copia el contenido de `rosario_config.json` en las instrucciones del sistema de tu LLM.
